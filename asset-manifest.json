@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Project-2-Movie-Info-Pages/static/js/main.dd80fadb.chunk.js",
-    "main.js.map": "/Project-2-Movie-Info-Pages/static/js/main.dd80fadb.chunk.js.map",
+    "main.js": "/Project-2-Movie-Info-Pages/static/js/main.a7fa05fb.chunk.js",
+    "main.js.map": "/Project-2-Movie-Info-Pages/static/js/main.a7fa05fb.chunk.js.map",
     "runtime-main.js": "/Project-2-Movie-Info-Pages/static/js/runtime-main.e4161f0a.js",
     "runtime-main.js.map": "/Project-2-Movie-Info-Pages/static/js/runtime-main.e4161f0a.js.map",
     "static/js/2.c0da058e.chunk.js": "/Project-2-Movie-Info-Pages/static/js/2.c0da058e.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.e4161f0a.js",
     "static/js/2.c0da058e.chunk.js",
-    "static/js/main.dd80fadb.chunk.js"
+    "static/js/main.a7fa05fb.chunk.js"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Project-2-Movie-Info-Pages/static/js/main.a7fa05fb.chunk.js",
-    "main.js.map": "/Project-2-Movie-Info-Pages/static/js/main.a7fa05fb.chunk.js.map",
+    "main.js": "/Project-2-Movie-Info-Pages/static/js/main.b38022ed.chunk.js",
+    "main.js.map": "/Project-2-Movie-Info-Pages/static/js/main.b38022ed.chunk.js.map",
     "runtime-main.js": "/Project-2-Movie-Info-Pages/static/js/runtime-main.e4161f0a.js",
     "runtime-main.js.map": "/Project-2-Movie-Info-Pages/static/js/runtime-main.e4161f0a.js.map",
-    "static/js/2.c0da058e.chunk.js": "/Project-2-Movie-Info-Pages/static/js/2.c0da058e.chunk.js",
-    "static/js/2.c0da058e.chunk.js.map": "/Project-2-Movie-Info-Pages/static/js/2.c0da058e.chunk.js.map",
+    "static/js/2.ea2aa1b8.chunk.js": "/Project-2-Movie-Info-Pages/static/js/2.ea2aa1b8.chunk.js",
+    "static/js/2.ea2aa1b8.chunk.js.map": "/Project-2-Movie-Info-Pages/static/js/2.ea2aa1b8.chunk.js.map",
     "index.html": "/Project-2-Movie-Info-Pages/index.html",
-    "static/js/2.c0da058e.chunk.js.LICENSE.txt": "/Project-2-Movie-Info-Pages/static/js/2.c0da058e.chunk.js.LICENSE.txt"
+    "static/js/2.ea2aa1b8.chunk.js.LICENSE.txt": "/Project-2-Movie-Info-Pages/static/js/2.ea2aa1b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e4161f0a.js",
-    "static/js/2.c0da058e.chunk.js",
-    "static/js/main.a7fa05fb.chunk.js"
+    "static/js/2.ea2aa1b8.chunk.js",
+    "static/js/main.b38022ed.chunk.js"
   ]
 }
